@@ -1,3 +1,12 @@
+# This program defines a KMeans class that represents
+# the K-means clustering algorithm. The fit method fits
+# the model to the data and finds the optimal centroids,
+# while the predict method assigns each point to the closest 
+# centroid based on Euclidean distance. The program also includes
+# an example usage that demonstrates how to use the KMeans class on a sample dataset and visualize the results using matplotlib.
+
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
